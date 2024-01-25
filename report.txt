@@ -1,6 +1,6 @@
 Number of instances: 5000
 Number of features: 25
-R-squared score: 0.9986204099953045
-Mean Absolute Error (MAE): 0.16519872934062227
-Mean Squared Error (MSE): 0.14843945089002328
-Root Mean Squared Error (RMSE): 0.38527840698645865
+R-squared score: 0.9985442687394988
+Mean Absolute Error (MAE): 0.1687526749080471
+Mean Squared Error (MSE): 0.1566320053180956
+Root Mean Squared Error (RMSE): 0.3957676152972797

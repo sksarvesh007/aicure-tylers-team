@@ -48,7 +48,7 @@ def main():
     predictions = model.predict(df.drop(columns=[target_column, 'uuid']))
     predictions_df = pd.DataFrame({'uuid': df['uuid'], 'HR': predictions})
 
-    predictions_df.to_csv("output.csv", index=False)
+    predictions_df.to_csv("results.csv", index=False)
 
 if __name__ == "__main__":
     main()
