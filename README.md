@@ -16,3 +16,6 @@ Team description :
    | Contact : +919971259691
 2) Name : Sarvesh Khodwe
    | Contact: +919399661427
+
+
+#### Install the libraries given in the requirements.txt file
